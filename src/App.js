@@ -1,4 +1,4 @@
-import React, {useState, useTransition} from "react";
+import React, {useState} from "react";
 
 function App() {
   const [likes, setLikes] = useState(0);
